@@ -1,7 +1,5 @@
-PayNext is a wallet App that lets the user transfer money from their wallet to another designated wallet. 
+PayNext is a wallet app that functions as the transfer of money from one wallet address to another wallet address. 
 
-This project is in progress, i.e. only the backend part has been completed. 
-Yet to do Frontend using React. For styling Tailwind CSS. 
 
 
 
